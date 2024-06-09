@@ -5,7 +5,7 @@ return [
         'prefix' => '[Contact Form]'
     ],
     'emails' => [
-        'to'   => '',
+        'to'   => 'akshatkumar90157678@gmail.com',
         'from' => ''
     ],
     'messages' => [
